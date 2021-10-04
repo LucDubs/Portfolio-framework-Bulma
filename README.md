@@ -4,10 +4,10 @@
 
 1st Preview:
 
-<img src="../Pics Read.me/index.png">
+<img src="Pics Read.me/index.png">
 <br>
 <br>
 2nd Preview:
-<img src="../Pics Read.me/contact.png">
+<img src="Pics Read.me/contact.png">
 
 
